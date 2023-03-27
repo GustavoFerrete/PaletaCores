@@ -106,7 +106,20 @@
     }
 
     footer{
-        width: 980px;       
+        width: 980px;
+        height: 650px;
+        font-size: 30px;       
     }
 
+    .caixas_contato{
+        font-size: 30px;
+    }
+
+    .caixa_mensagem{
+        font-size: 30px;
+    }
+
+    .caixa_enviar{
+        font-size: 30px;
+    }
 }
