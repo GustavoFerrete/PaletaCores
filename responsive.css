@@ -1,33 +1,59 @@
 @media(max-width:1200px)
 {
+
+    header{
+        width: 1000px;
+    }
+
     .titulo_superior{
         margin-top: -1px;
         font-size: 40px;
+        margin-left: 50px;
     }
 
     
     .subtitulo_superior{
         font-size: 30px;
+        margin-left: 50px;
     }
 
 
+    .presente{
+        margin-left: 650px;
+    }
+
     .box_cor1{
+        margin-left: 50px;
         width: 250px;
         height: 130px;
     }
 
     .text_box{
+        margin-left: 50px;
         width: 250px;
         height: 130px;
     }
 
     .box_cor2{
+        margin-left: 380px;
         width: 250px;
         height: 130px;
     }
 
     .text_box2{
+        margin-left: 380px;
         width: 250px;
         height: 130px;
     }
-}
+
+    .box_cor3{
+        margin-left: 700px;
+        width: 250px;
+        height: 130px;
+    }
+
+    .text_box3{
+        margin-left: 700px;
+        width: 250px;
+        height: 130px;
+    }
