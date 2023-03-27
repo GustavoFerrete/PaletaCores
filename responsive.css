@@ -22,43 +22,91 @@
         margin-left: 600px;
     }
 
-    .box_cor1{
+    .box_corSteelBlue{
         margin-left: 30px;
         width: 230px;
         height: 160px;
     }
 
-    .text_box{
+    .text_boxSteelBlue{
         margin-left: 30px;
         width: 230px;
         height: 150px;
         font-size: 25px;
     }
 
-    .box_cor2{
+    .box_corMidnightBlue{
         margin-top: -310px;
         margin-left: 350px;
         width: 230px;
         height: 160px;
     }
 
-    .text_box2{
+    .text_boxMidnightBlue{
         margin-left: 350px;
         width: 230px;
         height: 150px;
         font-size: 25px;
     }
 
-    .box_cor3{
+    .box_corDeepSkyBlue{
         margin-top: -310px;
         margin-left: 670px;
         width: 230px;
         height: 160px;
     }
 
-    .text_box3{
+    .text_boxDeepSkyBlue{
         margin-left: 670px;
         width: 230px;
         height: 150px;
         font-size: 25px;
     }
+
+
+    .box_corLime{
+        margin-left: 30px;
+        width: 230px;
+        height: 160px;
+    }
+
+    .text_boxLime{
+        margin-left: 30px;
+        width: 230px;
+        height: 150px;
+        font-size: 25px;
+    }
+
+    .box_corDarkGreen{
+        margin-top: -310px;
+        margin-left: 350px;
+        width: 230px;
+        height: 160px;
+    }
+
+    .text_box_DarkGreen{
+        margin-left: 350px;
+        width: 230px;
+        height: 150px;
+        font-size: 25px;
+    }
+
+    .box_corPaleGreen{
+        margin-top: -310px;
+        margin-left: 670px;
+        width: 230px;
+        height: 160px;
+    }
+
+    .text_boxPaleGreen{
+        margin-left: 670px;
+        width: 230px;
+        height: 150px;
+        font-size: 25px;
+    }
+
+    footer{
+        width: 980px;       
+    }
+
+}

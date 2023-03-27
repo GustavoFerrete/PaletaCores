@@ -26,7 +26,7 @@ header{
     margin-top: -200px;
 }
 
-.box_cor1{
+.box_corSteelBlue{
     margin-top: 50px;
     margin-left: 150px;
     width: 250px;
@@ -35,7 +35,7 @@ header{
     box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.2);
 }
 
-.text_box{
+.text_boxSteelBlue{
     margin-left: 150px;
     width: 250px;
     height: 120px;
@@ -48,7 +48,7 @@ header{
     line-height: 30px;
 }
 
-.box_cor2{
+.box_corMidnightBlue{
     margin-top: -250px;
     margin-left: 480px;
     width: 250px;
@@ -57,14 +57,14 @@ header{
     box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.2);
 }
 
-.text_box2{
+.text_boxMidnightBlue{
     margin-left: 480px;
     width: 250px;
     height: 120px;
     box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.2);
 }
 
-.box_cor3{
+.box_corDeepSkyBlue{
     margin-top: -250px;
     margin-left: 800px;
     width: 250px;
@@ -73,10 +73,98 @@ header{
     box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.2);
 }
 
-.text_box3{
+.text_boxDeepSkyBlue{
     margin-left: 800px;
     width: 250px;
     height: 120px;
     box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.2);
 }
 
+.box_corLime{
+    margin-top: 50px;
+    margin-left: 150px;
+    width: 250px;
+    height: 130px;
+    background-color: #00FF00;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.2);
+}
+
+.text_boxLime{
+    margin-left: 150px;
+    width: 250px;
+    height: 120px;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.2);
+}
+
+.box_corDarkGreen{
+    margin-top: -250px;
+    margin-left: 480px;
+    width: 250px;
+    height: 130px;
+    background-color: #006400;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.2);
+}
+
+.text_box_DarkGreen{
+    margin-left: 480px;
+    width: 250px;
+    height: 120px;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.2);
+}
+
+.box_corPaleGreen{
+    margin-top: -250px;
+    margin-left: 800px;
+    width: 250px;
+    height: 130px;
+    background-color: #98FB98;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.2);
+}
+
+.text_boxPaleGreen{
+    margin-left: 800px;
+    width: 250px;
+    height: 120px;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.2);
+}
+
+footer{
+    background-color: #D7D4FF;
+    margin-top: 100px;
+    margin-left: -8px;
+    margin-bottom: -7px;
+    width: 1206px;
+    height: 530px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+.titulo_footer{
+    line-height: 150px;
+}
+
+.caixas_contato{
+    width: 350px;
+    height: 40px;
+    border-style: none;
+    border-radius: 4px;
+    margin-top: -50px;
+}
+
+.caixa_mensagem{
+    margin-top: -10px;
+    width: 350px;
+    height: 100px;
+    border-style: none;
+    border-radius: 4px;
+}
+
+.caixa_enviar{
+    width: 350px;
+    height: 40px;
+    border-style: none;
+    border-radius: 4px;
+    background-color: blue;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
