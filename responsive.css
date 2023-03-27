@@ -1,0 +1,33 @@
+@media(max-width:1200px)
+{
+    .titulo_superior{
+        margin-top: -1px;
+        font-size: 40px;
+    }
+
+    
+    .subtitulo_superior{
+        font-size: 30px;
+    }
+
+
+    .box_cor1{
+        width: 250px;
+        height: 130px;
+    }
+
+    .text_box{
+        width: 250px;
+        height: 130px;
+    }
+
+    .box_cor2{
+        width: 250px;
+        height: 130px;
+    }
+
+    .text_box2{
+        width: 250px;
+        height: 130px;
+    }
+}
