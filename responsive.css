@@ -31,12 +31,12 @@
     .text_box{
         margin-left: 30px;
         width: 230px;
-        height: 160px;
-        font-size: 20px;
+        height: 150px;
+        font-size: 25px;
     }
 
     .box_cor2{
-        margin-top: -320px;
+        margin-top: -310px;
         margin-left: 350px;
         width: 230px;
         height: 160px;
@@ -45,12 +45,12 @@
     .text_box2{
         margin-left: 350px;
         width: 230px;
-        height: 160px;
-        font-size: 20px;
+        height: 150px;
+        font-size: 25px;
     }
 
     .box_cor3{
-        margin-top: -320px;
+        margin-top: -310px;
         margin-left: 670px;
         width: 230px;
         height: 160px;
@@ -59,6 +59,6 @@
     .text_box3{
         margin-left: 670px;
         width: 230px;
-        height: 160px;
-        font-size: 20px;
+        height: 150px;
+        font-size: 25px;
     }

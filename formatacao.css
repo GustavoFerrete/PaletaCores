@@ -38,7 +38,7 @@ header{
 .text_box{
     margin-left: 150px;
     width: 250px;
-    height: 130px;
+    height: 120px;
     box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.2);
 }
 
@@ -49,7 +49,7 @@ header{
 }
 
 .box_cor2{
-    margin-top: -260px;
+    margin-top: -250px;
     margin-left: 480px;
     width: 250px;
     height: 130px;
@@ -60,12 +60,12 @@ header{
 .text_box2{
     margin-left: 480px;
     width: 250px;
-    height: 130px;
+    height: 120px;
     box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.2);
 }
 
 .box_cor3{
-    margin-top: -260px;
+    margin-top: -250px;
     margin-left: 800px;
     width: 250px;
     height: 130px;
@@ -76,7 +76,7 @@ header{
 .text_box3{
     margin-left: 800px;
     width: 250px;
-    height: 130px;
+    height: 120px;
     box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.2);
 }
 
