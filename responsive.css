@@ -8,13 +8,13 @@
     .titulo_superior{
         margin-top: -1px;
         font-size: 40px;
-        margin-left: 50px;
+        margin-left: 35px;
     }
 
     
     .subtitulo_superior{
         font-size: 30px;
-        margin-left: 50px;
+        margin-left: 35px;
     }
 
 
@@ -23,37 +23,42 @@
     }
 
     .box_cor1{
-        margin-left: 50px;
-        width: 250px;
-        height: 130px;
+        margin-left: 30px;
+        width: 230px;
+        height: 160px;
     }
 
     .text_box{
-        margin-left: 50px;
-        width: 250px;
-        height: 130px;
+        margin-left: 30px;
+        width: 230px;
+        height: 160px;
+        font-size: 20px;
     }
 
     .box_cor2{
-        margin-left: 380px;
-        width: 250px;
-        height: 130px;
+        margin-top: -320px;
+        margin-left: 350px;
+        width: 230px;
+        height: 160px;
     }
 
     .text_box2{
-        margin-left: 380px;
-        width: 250px;
-        height: 130px;
+        margin-left: 350px;
+        width: 230px;
+        height: 160px;
+        font-size: 20px;
     }
 
     .box_cor3{
-        margin-left: 700px;
-        width: 250px;
-        height: 130px;
+        margin-top: -320px;
+        margin-left: 670px;
+        width: 230px;
+        height: 160px;
     }
 
     .text_box3{
-        margin-left: 700px;
-        width: 250px;
-        height: 130px;
+        margin-left: 670px;
+        width: 230px;
+        height: 160px;
+        font-size: 20px;
     }
